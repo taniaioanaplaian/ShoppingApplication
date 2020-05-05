@@ -1,0 +1,26 @@
+[
+Florescu Ana
+Product{name='portocale', price=7.99} Mega Image
+Product{name='banane', price=3.99} Auchan
+Product{name='paste', price=5.15} Auchan
+Product{name='orez', price=6.2} Lidl
+Final cost: 23.33
+Not found: inghetata
+, 
+Ionescu Maria
+Product{name='iaurt', price=1.5} Lidl
+Product{name='paine', price=3} Lidl
+Product{name='cafea', price=4.2} Lidl
+Product{name='zahar', price=2.78} Lidl
+Product{name='orez', price=5} Lidl
+Final cost: 16.48
+Not found: apa
+, 
+Popescu Dan
+Product{name='portocale', price=7.99} Mega Image
+Product{name='banane', price=3.49} Auchan
+Product{name='ciocolata', price=5} Mega Image
+Final cost: 16.48
+Not found: orez
+cirese
+]
